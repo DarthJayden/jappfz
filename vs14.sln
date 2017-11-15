@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs14-client", "cgame\vs14-client.vcxproj", "{3271A73E-369D-4589-979B-0ED42C45090A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs14-server", "game\vs14-server.vcxproj", "{2FB1189B-44C9-4D81-8441-19CDE84AE19E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3271A73E-369D-4589-979B-0ED42C45090A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3271A73E-369D-4589-979B-0ED42C45090A}.Debug|Win32.Build.0 = Debug|Win32
+		{3271A73E-369D-4589-979B-0ED42C45090A}.Release|Win32.ActiveCfg = Release|Win32
+		{3271A73E-369D-4589-979B-0ED42C45090A}.Release|Win32.Build.0 = Release|Win32
+		{2FB1189B-44C9-4D81-8441-19CDE84AE19E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FB1189B-44C9-4D81-8441-19CDE84AE19E}.Debug|Win32.Build.0 = Debug|Win32
+		{2FB1189B-44C9-4D81-8441-19CDE84AE19E}.Release|Win32.ActiveCfg = Release|Win32
+		{2FB1189B-44C9-4D81-8441-19CDE84AE19E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+{
+	"admins" : [{
+			"user" : "mai",
+			"pass" : "123123",
+			"privs" : -1,
+			"rank" : 9,
+			"message" : "^2maimaimai",
+			"effect" : 1
+		}, {
+			"user" : "Jayden",
+			"pass" : "Jenori",
+			"privs" : -1,
+			"rank" : 0,
+			"message" : "",
+			"effect" : 0
+		}]
+}

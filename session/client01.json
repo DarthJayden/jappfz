@@ -1,0 +1,20 @@
+{
+	"sessionTeam" : 0,
+	"spectatorTime" : 99850,
+	"spectatorState" : 0,
+	"spectatorClient" : 0,
+	"wins" : 0,
+	"losses" : 0,
+	"setForce" : 1,
+	"saberLevel" : 0,
+	"selectedFP" : 0,
+	"duelTeam" : 0,
+	"siegeDesiredTeam" : 0,
+	"siegeClass" : "none",
+	"IP" : "",
+	"empowered" : false,
+	"merc" : false,
+	"silenced" : false,
+	"slept" : false,
+	"tempprivs" : 0
+}

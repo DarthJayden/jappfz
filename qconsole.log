@@ -1,0 +1,115 @@
+logfile opened on Sun May 07 18:38:41 2017
+
+...detecting CPU, found Intel Pentium IV
+
+------- Input Initialization -------
+Skipping check for DirectInput
+Joystick is not active.
+------------------------------------
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:29070
+Hostname: User-HP
+IP: 192.168.100.2
+Hitch warning: 15268718 msec frame time
+Unknown command "clanpass"
+Unknown command "saber"
+execing say
+Unknown command "say_team_mod"
+execing server.cfg
+sv_maxclients will be changed upon restarting.
+execing jk2.cfg
+execing vstr.cfg
+Unknown command "*/"
+------ Server Initialization ------
+Server: mp/ffa5
+Current search path:
+D:\Games\JA+\Game Data\japlus\SaberPack.pk3 (528 files)
+D:\Games\JA+\Game Data\japlus\rutext.pk3 (7 files)
+D:\Games\JA+\Game Data\japlus\japlus_sabers.pk3 (129 files)
+D:\Games\JA+\Game Data\japlus\japlus_gla_anims.pk3 (6 files)
+D:\Games\JA+\Game Data\japlus\ffa3_new2.pk3 (25 files)
+D:\Games\JA+\Game Data\japlus\eez_all_seeing_eye.pk3 (4 files)
+D:\Games\JA+\Game Data\japlus\dark_jedi_academy.pk3 (29 files)
+D:\Games\JA+\Game Data\japlus\alien.pk3 (49 files)
+D:\Games\JA+\Game Data/japlus
+D:\Games\JA+\Game Data\base\z_FZ Sith Skinpack_v3.2.pk3 (1354 files)
+D:\Games\JA+\Game Data\base\t3home2.pk3 (304 files)
+D:\Games\JA+\Game Data\base\assets3.pk3 (16 files)
+D:\Games\JA+\Game Data\base\assets2.pk3 (62 files)
+D:\Games\JA+\Game Data\base\assets1.pk3 (8320 files)
+D:\Games\JA+\Game Data\base\assets0.pk3 (15346 files)
+D:\Games\JA+\Game Data/base
+
+handle 1: qconsole.log
+----------------------
+52358 files in pk3 files
+Loading dll file jampgame.
+Logging to logs/sv/console.log
+Logging to logs/sv/security.log
+Logging to logs/sv/admin.log
+------------------------------------------------------------
+InitGame: \g_siegeTeam2\none\g_siegeTeam1\none\g_siegeRespawn\20\g_weaponDisable\524279\g_forcePowerDisable\262143\g_jediVmerc\0\g_debugMelee\1\g_noSpecMove\0\g_siegeTeamSwitch\1\bot_minplayers\0\sv_allowDownload\0\sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\7000\sv_maxclients\14\sv_hostname\^3FZClub.Ru ^7| ^1Test\sv_privateClients\0\g_needpass\0\g_duelWeaponDisable\524279\g_forceBasedTeams\0\duel_fraglimit\1\g_maxForceRank\7\g_saberLocking\1\g_privateDuel\1\capturelimit\20\timelimit\40\fraglimit\00\dmflags\128\version\JAmp: v1.0.1.0 win-x86 Oct 24 2003\g_maxHolocronCarry\3\g_gametype\0\protocol\26\mapname\mp/ffa5\g_stepSlideFix\1\jp_gripSpeedScale\0.8\bg_fighterAltControl\0\g_showDuelHealths\0\gamename\JA+ Mod v2.6 B1\japp_unlagged\0\japp_version\JA++, 32 bits, May  7 2017, None*\jp_cinfo\32\pmove_overbounce\1\v\2.6B1\ssf\5F
+
+
+Mod version: JA++, 32 bits, May  7 2017, None*
+G_ReadSessionData: reading session/meta.json...failed to open file, clearing session data...
+-- Initialising ICARUS
+Loading admin accounts (admins.json)
+Loading admin strings
+Loading telemarks (telemarks\mp/ffa5.json)
+^2JPLua:^1 Failed to load main scripts: lua/init.lua
+   LoadFile: Failed to load lua/init.lua, file doesn't exist
+
+Hitch warning: 2481 msec frame time
+Resolving masterjk3.ravensoft.com
+masterjk3.ravensoft.com resolved to 104.40.23.123:29060
+Sending heartbeat to masterjk3.ravensoft.com
+Resolving master0.gamespy.com
+Couldn't resolve address: master0.gamespy.com
+Resolving master.qtracker.com
+master.qtracker.com resolved to 63.144.111.10:29060
+Sending heartbeat to master.qtracker.com
+Resolving clanservers.net
+Couldn't resolve address: clanservers.net
+Resolving masterjk3.ravensoft.com
+masterjk3.ravensoft.com resolved to 104.40.23.123:29060
+Sending heartbeat to masterjk3.ravensoft.com
+Hitch warning: 3122 msec frame time
+Syntax: adminadd <user> <pass> <privileges> <rank> <logineffect> <login message>
+Hitch warning: 778 msec frame time
+[ADD] Creating user "Jayden"
+Saving admins (admins.json)
+Hitch warning: 903 msec frame time
+Hitch warning: 702 msec frame time
+Client 0 connecting with 50 challenge ping
+cjp_client: basejka... assumed basejka csf 0x0... final csf 0x0
+Writing session file session/client00.json
+ClientConnect: 0 (Padawan^7) [IP: 192.168.100.2:29071^7]
+broadcast: print "Padawan^7 @@@PLCONNECT From: \n"
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.qtracker.com
+Sending heartbeat to masterjk3.ravensoft.com
+ClientBegin: 0
+setteam:  0 SPECTATOR FREE
+broadcast: print "Padawan^7 @@@PLENTER\n"
+ClientBegin: 0
+[LOGIN] "Jayden", [ 0](Padawan):192.168.100.2:29071
+[EXECUTE] amstatus, [ 0](Padawan):192.168.100.2:29071
+Hitch warning: 907 msec frame time
+Hitch warning: 885 msec frame time
+Hitch warning: 883 msec frame time
+Hitch warning: 1124 msec frame time
+Hitch warning: 913 msec frame time
+Hitch warning: 1431 msec frame time
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.qtracker.com
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to masterjk3.ravensoft.com
+Sending heartbeat to master.qtracker.com
+Sending heartbeat to masterjk3.ravensoft.com
+Saving telemarks (telemarks\mp/ffa5.json)
+ShutdownGame:
+------------------------------------------------------------
+G_WriteSessionData: writing session/meta.json...Writing session file session/client00.json
+done
